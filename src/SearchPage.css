@@ -105,3 +105,7 @@
 .searchPage__hrIcons{
     margin-right: 20px;
 }
+
+.searchPage__hrIcons:hover{
+    cursor: pointer;
+}
