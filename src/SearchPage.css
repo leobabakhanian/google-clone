@@ -96,9 +96,10 @@
     display: flex;
     align-items: center;
     float: right;
-    margin-left: 325px;
+    margin-left: auto;
     color: black;
     padding-top: 5px;
+    padding-left: 20px;
 }
 
 .searchPage__hrIcons{
